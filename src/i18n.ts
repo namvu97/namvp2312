@@ -84,7 +84,7 @@ i18n
           other_skills: 'Other Skills',
           software: 'Methodologies & Tools',
           introduction:
-            "I have over 4 years of experience working as a developer, with a strong knowledge of JavaScript, and I can also work with Python, Java, .... Beside that, I have experienced in building applications using lambda function, AWS services, and serverless architecture. I am skilled in developing RESTful APIs and integrating third-party services for seamless functionality. I am capable of applying test-driven development (TDD) principles to ensure source code quality and reliability.",
+            "I have been working as a developer for 4 years, with a strong knowledge of JavaScript, and I can also work with Python, Java, .... Beside that, I have experienced in building applications using lambda function, AWS services, and serverless architecture. I am skilled in developing RESTful APIs and integrating third-party services for seamless functionality. I am capable of applying test-driven development (TDD) principles to ensure source code quality and reliability.",
           education: 'EDUCATION',
           experience: 'EXPERIENCE',
           university: 'Posts and Telecommunications Institute of Technology',
