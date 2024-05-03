@@ -33,7 +33,7 @@ i18n
           other_skills: 'Các kỹ năng khác',
           software: 'Methodologies & Tools',
           introduction:
-            'Tôi đã làm việc với vai trò của một lập trình viên được 4 năm. Tôi có kiến thức tốt về JavaScript và tôi cũng có thể làm việc với một số ngôn ngữ khác như Python và Java, PHP,... Ngoài ra, tôi có kinh nghiệm xây dựng các ứng dụng lớn và có thể mở rộng trên nền tảng AWS và kiến trúc serverless. Tôi có thể tuân theo nguyên tắc phát triển dựa trên thử nghiệm (TDD) để đảm bảo chất lượng và độ tin cậy của mã nguồn dự án.',
+            'Tôi đã làm việc với vai trò của một lập trình viên được 4 năm. Tôi có kiến thức tốt về JavaScript và tôi cũng có thể làm việc với một số ngôn ngữ khác như Python và Java,... Ngoài ra, tôi đã có kinh nghiệm làm việc với các ứng dụng sử dụng lambda function trên nền tảng AWS và kiến trúc serverless. Tôi có thể tuân theo nguyên tắc phát triển dựa trên thử nghiệm (TDD) để đảm bảo chất lượng và độ tin cậy của mã nguồn dự án.',
           education: 'HỌC VẤN',
           experience: 'KINH NGHIỆM',
           university: 'Học viện Công nghệ Bưu Chính - Viễn Thông',
@@ -84,7 +84,7 @@ i18n
           other_skills: 'Other Skills',
           software: 'Methodologies & Tools',
           introduction:
-            "I have been working as a developer for 4 years. I possess strong knowledge of JavaScript and can also work with Python, Java, and PHP. Additionally, I am experienced in building robust and scalable applications using NodeJS, AWS services, and serverless architecture. I am skilled in developing RESTful APIs and integrating third-party services for seamless functionality. I firmly believe in test-driven development (TDD) principles to ensure code quality and reliability.",
+            "I have over 4 years of experience working as a developer, with a strong knowledge of JavaScript, and I can also work with Python, Java, .... Beside that, I have experienced in building applications using lambda function, AWS services, and serverless architecture. I am skilled in developing RESTful APIs and integrating third-party services for seamless functionality. I am capable of applying test-driven development (TDD) principles to ensure source code quality and reliability.",
           education: 'EDUCATION',
           experience: 'EXPERIENCE',
           university: 'Posts and Telecommunications Institute of Technology',
