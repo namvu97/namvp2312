@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/namvp2312/static/css/main.a5ec7e01.css",
-    "main.js": "/namvp2312/static/js/main.e7ae7f32.js",
+    "main.js": "/namvp2312/static/js/main.f2d52e9d.js",
     "static/js/787.e6ecbcfc.chunk.js": "/namvp2312/static/js/787.e6ecbcfc.chunk.js",
     "static/media/avatar.jpeg": "/namvp2312/static/media/avatar.f474a4fd417b8af3b4e2.jpeg",
     "static/media/Simple-Line-Icons.svg?v=2.4.0": "/namvp2312/static/media/Simple-Line-Icons.f1515a459c8850890812.svg",
@@ -14,11 +14,11 @@
     "static/media/traveling.png": "/namvp2312/static/media/traveling.fc97b0315b766e85b541.png",
     "index.html": "/namvp2312/index.html",
     "main.a5ec7e01.css.map": "/namvp2312/static/css/main.a5ec7e01.css.map",
-    "main.e7ae7f32.js.map": "/namvp2312/static/js/main.e7ae7f32.js.map",
+    "main.f2d52e9d.js.map": "/namvp2312/static/js/main.f2d52e9d.js.map",
     "787.e6ecbcfc.chunk.js.map": "/namvp2312/static/js/787.e6ecbcfc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5ec7e01.css",
-    "static/js/main.e7ae7f32.js"
+    "static/js/main.f2d52e9d.js"
   ]
 }
